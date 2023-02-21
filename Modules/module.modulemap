@@ -1,0 +1,11 @@
+framework module watch2earn_applesdk {
+  umbrella header "watch2earn_applesdk.h"
+
+  export *
+  module * { export * }
+}
+
+module watch2earn_applesdk.Swift {
+  header "watch2earn_applesdk-Swift.h"
+  requires objc
+}
