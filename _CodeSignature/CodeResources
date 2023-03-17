@@ -6,39 +6,39 @@
 	<dict>
 		<key>Headers/watch2earn_applesdk-Swift.h</key>
 		<data>
-		Z7ua26y3VRqkMCAYRAzj0oU9yK4=
+		ONNaM4uGcFGI/pyONb0FtCiReO0=
 		</data>
 		<key>Headers/watch2earn_applesdk.h</key>
 		<data>
-		k08c+D1qbF+u52F0lQi8gzOTxTM=
+		cRzLR6b3BT6buIl4+ZQKY+GD97A=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		S5w/tyl6lBeYaBmqnA7L+rcECtw=
+		V3FKZLeS7FiiDTV2EN1y17Fx9Us=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		LloAtU/XLoDaxQl3IGxWJ/d1U9s=
 		</data>
-		<key>Modules/watch2earn_applesdk.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
+		<key>Modules/watch2earn_applesdk.swiftmodule/Project/arm64-apple-tvos.swiftsourceinfo</key>
 		<data>
-		/WUV3WSUboVYlB1HL0LF3dz5okM=
+		NGgytDFQDLaK9sybEG883im/ezY=
 		</data>
-		<key>Modules/watch2earn_applesdk.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
+		<key>Modules/watch2earn_applesdk.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<data>
 		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
-		<key>Modules/watch2earn_applesdk.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
+		<key>Modules/watch2earn_applesdk.swiftmodule/arm64-apple-tvos.swiftdoc</key>
 		<data>
-		d30NngZK8Vz8F130PZtpIjPyAu0=
+		qwhaAQHLeutTtNy2uGygKf/GnuQ=
 		</data>
-		<key>Modules/watch2earn_applesdk.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
+		<key>Modules/watch2earn_applesdk.swiftmodule/arm64-apple-tvos.swiftmodule</key>
 		<data>
-		/aiKTyX6i3pOsQcKk+gp/OZUpSU=
+		KVJf3nEn1UKW0b0bv5vCPRETQdc=
 		</data>
 		<key>PlayerOverlayViews.nib</key>
 		<data>
-		GAs5V7eWrPMfW8mRxF294qiFWbY=
+		VosstpmCtxJh1HoQLn+TanLqUuw=
 		</data>
 		<key>PopupViewController.nib</key>
 		<data>
@@ -99,14 +99,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			23RYWHicgZM/T3yWrUptNtSAAqo/5g3lxi8HdywASf8=
+			ECM24EaLsX9qXd0XKojHuwezyZsfukb/dOkzXnTspKE=
 			</data>
 		</dict>
 		<key>Headers/watch2earn_applesdk.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x/D1mqbMyEXwNaJk565uERXUTxMpXBqKP0KqjOzECck=
+			qqaEQoIZLxtATY3GF9IZSbXMyqg5DOVMLi2qKhz/17Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -116,39 +116,39 @@
 			4Nd7WFC9WjCrn6G6V1vhWtfHSJYJj1avs5A4zO+gdK8=
 			</data>
 		</dict>
-		<key>Modules/watch2earn_applesdk.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
+		<key>Modules/watch2earn_applesdk.swiftmodule/Project/arm64-apple-tvos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OTRm+hlUcfj3F7UmCnOitaPlKvoT60CubcTUZahJUbs=
+			oemuRQVnUrJygSiZ/Q/5Jl8RrCrhLlNPSey09hOoWCA=
 			</data>
 		</dict>
-		<key>Modules/watch2earn_applesdk.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
+		<key>Modules/watch2earn_applesdk.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
-		<key>Modules/watch2earn_applesdk.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
+		<key>Modules/watch2earn_applesdk.swiftmodule/arm64-apple-tvos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KM2QrzWB2vSfa0JEiw9jaC74rn39eGsmIWkDmWG6hug=
+			QVIJ+LC5gC5BeoG08e69vu5eCqoy6Za6HzC32jPe0Xs=
 			</data>
 		</dict>
-		<key>Modules/watch2earn_applesdk.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
+		<key>Modules/watch2earn_applesdk.swiftmodule/arm64-apple-tvos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8kUlZKchYJCtL56uVXc9RXWewL5Kr+u8YDUne90fO1U=
+			U2BA8ulx5G/gCHxDll3B077sbUAw8F5l+oqeqBlZsiM=
 			</data>
 		</dict>
 		<key>PlayerOverlayViews.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			udMPlkuPbddYW16hj443lgRa2PHDO/5mIsjP5/sakmo=
+			kOnn4TmAdLbqATNcqLnfBoYFXUvwtsrv+89Wizam9gs=
 			</data>
 		</dict>
 		<key>PopupViewController.nib</key>

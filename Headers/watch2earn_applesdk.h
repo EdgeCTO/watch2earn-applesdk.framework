@@ -14,5 +14,3 @@ FOUNDATION_EXPORT double watch2earn_applesdkVersionNumber;
 FOUNDATION_EXPORT const unsigned char watch2earn_applesdkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <watch2earn_applesdk/PublicHeader.h>
-
-
